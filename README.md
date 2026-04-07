@@ -19,7 +19,7 @@
 
 ---
 
-## 📖 Description
+##  Description
 
 **MPesa SDK** is a comprehensive, developer-friendly Node.js library for integrating Safaricom's MPesa Daraja API into your applications. Built with TypeScript and designed for production use, it provides a clean, intuitive interface for all MPesa payment operations.
 
@@ -990,6 +990,6 @@ If this SDK helped you build something awesome, please:
 
 **Built with ❤️ for the Kenyan developer community**
 
-Made by [Adams Mugwe](https://github.com/ADAMSmugwe) • [Repository](https://github.com/ADAMSmugwe/mpesa-API-wrapper-for-node.js)
+Made For The Project
 
 </div>
